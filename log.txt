@@ -1,0 +1,18 @@
+INFO  [main]: Client: Client In Construction .. 
+INFO  [main]: Client: Livne, Uriel & Liana Currency Exchange Application Started
+INFO  [main]: Client: ------- Update Session #0 -------
+INFO  [main]: Client: ------- Update Session #1 -------
+INFO  [main]: Client: ------- Update Session #2 -------
+INFO  [main]: Client: ------- Update Session #3 -------
+INFO  [main]: Client: ------- Update Session #4 -------
+INFO  [main]: Client: ------- Update Session #5 -------
+INFO  [main]: Client: ------- Update Session #6 -------
+INFO  [main]: Client: ------- Update Session #7 -------
+INFO  [main]: Client: ------- Update Session #8 -------
+INFO  [main]: Client: ------- Update Session #9 -------
+INFO  [main]: Client: ------- Update Session #10 -------
+INFO  [main]: Client: ------- Update Session #11 -------
+INFO  [main]: Client: ------- Update Session #12 -------
+INFO  [main]: Client: ------- Update Session #13 -------
+INFO  [main]: Client: ------- Update Session #14 -------
+INFO  [main]: Client: ------- Update Session #15 -------
